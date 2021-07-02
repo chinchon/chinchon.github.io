@@ -14,7 +14,8 @@ author: ChinChon Na
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resume: "assets/pdf/resume-nachinchon.pdf"
+  Blog: "/"
+  Resume: "/assets/pdf/resume-nachinchon.pdf"
   # Drop down links: 
   #   - Site 1: "https://path/to/site1"
   #   - Site 2: "https://path/to/site2"
