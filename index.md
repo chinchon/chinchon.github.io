@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ChinChon Na
+title: Hi, I'm Chin
 subtitle: Big Data Engineer and Analyst
 ---
 ### Ninja Van Logistics Singapore
